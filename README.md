@@ -16,3 +16,12 @@ Vision-Only Automated Parking , ICRA 15](https://ieeexplore.ieee.org/document/71
 * [Computation of time optimal movements for autonomous parking of non-holonomic mobile platforms , ICRA02](https://ieeexplore.ieee.org/abstract/document/933030/)
 * [Unified path planner for parking an autonomous vehicle based on RRT , ICRA11](https://ieeexplore.ieee.org/abstract/document/5980105/)
 * [Apprenticeship learning for motion planning with application to parking lot navigation ,NG , Thrun , IROS08](https://ieeexplore.ieee.org/document/4651222/)
+
+## Option disvovery
+
+* [Option Discovery in Hierarchical Reinforcement Learning using Spatio-Temporal Clusterin](https://arxiv.org/abs/1605.05359), 2016
+* [DDCO: Discovery of Deep Continuous Options for Robot Learning from Demonstrations](https://arxiv.org/abs/1710.05421), 2017. 
+* [Portable Option Discovery for Automated Learning Transfer in Object-Oriented Markov Decision Processes](https://www.ijcai.org/Proceedings/15/Papers/542.pdf), IJCAI 2015.
+* [A Laplacian Framework for Option Discovery in Reinforcement Learning], ICML 2017. 
+* [Option-critic](https://arxiv.org/pdf/1609.05140.pdf). AAAI 2016. 
+* [FeUdal Networks for Hierarchical Reinforcement Learning](https://arxiv.org/abs/1703.01161). ICMl 2017. 
