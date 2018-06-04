@@ -15,3 +15,4 @@ Vision-Only Automated Parking , ICRA 15](https://ieeexplore.ieee.org/document/71
 * [Multifunctional Intelligent Autonomous Parking Controllers for Carlike Mobile Robots ,IIES09](https://ieeexplore.ieee.org/abstract/document/5280204/)
 * [Computation of time optimal movements for autonomous parking of non-holonomic mobile platforms , ICRA02](https://ieeexplore.ieee.org/abstract/document/933030/)
 * [Unified path planner for parking an autonomous vehicle based on RRT , ICRA11](https://ieeexplore.ieee.org/abstract/document/5980105/)
+* [Apprenticeship learning for motion planning with application to parking lot navigation ,NG , Thrun , IROS08](https://ieeexplore.ieee.org/document/4651222/)
