@@ -1,5 +1,7 @@
 # Autonomous-Parking Reading List
 
+Here are some papers for autonomous parking 
+
 * [A learning-based framework for handling dilemmas in urban automated driving ,ICRA 17](https://ieeexplore.ieee.org/document/7989172/)
 * [Where  to  Park?
 Minimizing  the  Expected  Time  to  Find  a  Parking  Space , ICRA15](https://ieeexplore.ieee.org/document/7139482/)
