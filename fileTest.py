@@ -10,6 +10,8 @@ file.write('ok daone')
  
 file.close() 
 
+return 0
+
 '''
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
